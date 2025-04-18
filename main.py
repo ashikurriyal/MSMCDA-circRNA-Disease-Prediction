@@ -17,7 +17,7 @@ class Config:
         self.kfold = 5
         self.batchSize = 32
         self.ratio = 0
-        self.epoch =2
+        self.epoch =128
         self.gcn_layers = 2
         self.view = 2    
         self.fm = 128
